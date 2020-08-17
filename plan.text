@@ -6,8 +6,11 @@
      - Dev dependencies
        -nodemon  
 [.] Create Express Server - Create a server.js file
+[.] Git setup and first commit 
+[.] Install Laravel Mix
+     - setup js and scss
+[.] Install tailwind css     
 [.] Create Home page using html and css
-     - include tailwind css
 [.] Create Cart page
      - order summary section
      - empty cart section
@@ -15,4 +18,10 @@
 [.] Create Orders view with table for customer and admin    
 [.] Create Orders single page with status    
 [.] Create login page with route     
-     
+[.] Build register crud
+     -dependencies express-flash express-session cookie-parser dotenv
+     -status code article https://www.restapitutorial.com/httpstatuscodes.html
+     -Database connection. dependencies mongoose
+[.] Build login using passport
+     - install dependencies passport passport-local express-session
+[.] Create menu model and put dummy data               
