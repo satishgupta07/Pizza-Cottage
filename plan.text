@@ -14,10 +14,20 @@
 [.] Create Cart page
      - order summary section
      - empty cart section
+[.] Move routes to routes files
+[.] Create dedicated controllers
+[.] Add to cart functionality
+     - connect to MongoDB
+     - use connect-mongo for session store
+          - dependencies
+               - mongoose, express-session, connect-mongo, dotenv
+     - axios to send ajax request
+     - install notification library npm i noty  https://ned.im/noty/#/               
 [.] Create Order controller and link it in server.js     
 [.] Create Orders view with table for customer and admin    
 [.] Create Orders single page with status    
-[.] Create login page with route     
+[.] Create login page with route  
+[.] Create register page with route   
 [.] Build register crud
      -dependencies express-flash express-session cookie-parser dotenv
      -status code article https://www.restapitutorial.com/httpstatuscodes.html
