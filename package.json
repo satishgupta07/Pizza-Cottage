@@ -13,6 +13,7 @@
   "author": "Satish Kumar Gupta",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.20.0",
     "connect-mongo": "^3.2.0",
     "dotenv": "^8.2.0",
     "ejs": "^3.1.3",
